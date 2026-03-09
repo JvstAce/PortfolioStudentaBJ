@@ -2,12 +2,12 @@
 Opis projektu
 Aplikacja mobilna portfolio przedstawiająca profil Bartosza Jojko, studenta informatyki zainteresowanego tworzeniem aplikacji webowych i mobilnych, backendem oraz bazami danych. Projekt jest prototypem aplikacji na iOS, docelowo rozwijanej w języku Swift, służącej do prezentacji informacji o autorze, jego umiejętnościach i wybranych projektach w formie nowoczesnego interfejsu inspirowanego systemem iOS.
 
-#Technologie
+# Technologie
 Docelowa platforma: iOS
 
 Język: Swift (planowany), SwiftUI / UIKit (do wyboru w dalszym etapie)
 
-#Funkcjonalności
+# Funkcjonalności
 Ekran logowania:
 
 Prezentacja ekranu startowego z polem na login/hasło (prototypowo, bez realnej autoryzacji).
