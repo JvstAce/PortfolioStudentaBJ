@@ -80,8 +80,8 @@ Przed uruchomieniem projektu należy posiadać:
 ### Uruchomienie projektu
 
 ```bash
-git clone https://github.com/JvstAce/nazwa-repozytorium.git
-cd nazwa-repozytorium
+git clone https://github.com/JvstAce/PortfolioStudentaBJ.git
+cd PortfolioStudentaBJ
 npm install
 npx expo start
 ```
@@ -102,9 +102,9 @@ Dane profilu i projektów są zapisywane lokalnie z użyciem `AsyncStorage`, dzi
 ## Autor
 
 **Bartosz Jojko**  
-Student informatyki, specjalizacja: aplikacje mobilne i platformy internetowe. [cite:19]
+Student informatyki, specjalizacja: aplikacje mobilne i platformy internetowe.
 
-- GitHub: [JvstAce](https://github.com/JvstAce) [cite:21]
+- GitHub: [JvstAce](https://github.com/JvstAce) 
 - LinkedIn: [bartosz-jojko-2463563a9](https://www.linkedin.com/in/bartosz-jojko-2463563a9/) 
 - E-mail: bartosz.jojko@gmail.com 
 
